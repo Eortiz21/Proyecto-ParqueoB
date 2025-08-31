@@ -1,16 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ortiz\\Documents\\10 semestre\\047 SEMINARIO DE TECNOLOG\u00CDAS DE INFORMACI\u00D3N\\BETA2\\Final\\SeminarioFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\ortiz\\documents\\10 semestre\\047 seminario de tecnolog\u00EDas de informaci\u00F3n\\beta2\\final\\seminariofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\models\\tarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:models\\tarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\models\\espacioestacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:models\\espacioestacionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\controllers\\tarifascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:controllers\\tarifascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\controllers\\espacioestacionamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:controllers\\espacioestacionamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\migrations\\20250829020623_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:migrations\\20250829020623_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ortiz\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\ortiz\\documents\\10 semestre\\047 seminario de tecnolog\u00EDas de informaci\u00F3n\\beta2\\final\\seminariofinal\\wwwroot\\css\\modales.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|c:\\users\\dell\\desktop\\seminario\\proyecto-parqueob\\wwwroot\\css\\modales.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6DB27FED-EAD9-4FDC-B2F9-4DE6CF4DFA72}|Primera.csproj|solutionrelative:wwwroot\\css\\modales.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -21,43 +49,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Models\\Clientes.cs",
+              "RelativeToolTip": "Models\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:55:19.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ortiz\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ortiz\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T02:37:58.223Z",
+              "Title": "Tarifa.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Models\\Tarifa.cs",
+              "RelativeDocumentMoniker": "Models\\Tarifa.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Models\\Tarifa.cs",
+              "RelativeToolTip": "Models\\Tarifa.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:55:07.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "modales.css",
-              "DocumentMoniker": "C:\\Users\\ortiz\\Documents\\10 semestre\\047 SEMINARIO DE TECNOLOG\u00CDAS DE INFORMACI\u00D3N\\BETA2\\Final\\SeminarioFinal\\wwwroot\\css\\modales.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\modales.css",
-              "ToolTip": "C:\\Users\\ortiz\\Documents\\10 semestre\\047 SEMINARIO DE TECNOLOG\u00CDAS DE INFORMACI\u00D3N\\BETA2\\Final\\SeminarioFinal\\wwwroot\\css\\modales.css",
-              "RelativeToolTip": "wwwroot\\css\\modales.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-25T02:18:42.557Z",
+              "Title": "EspacioEstacionamiento.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Models\\EspacioEstacionamiento.cs",
+              "RelativeDocumentMoniker": "Models\\EspacioEstacionamiento.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Models\\EspacioEstacionamiento.cs",
+              "RelativeToolTip": "Models\\EspacioEstacionamiento.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:54:54.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "TarifasController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Controllers\\TarifasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarifasController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Controllers\\TarifasController.cs",
+              "RelativeToolTip": "Controllers\\TarifasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:53:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EspacioEstacionamientoesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Controllers\\EspacioEstacionamientoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EspacioEstacionamientoesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Controllers\\EspacioEstacionamientoesController.cs",
+              "RelativeToolTip": "Controllers\\EspacioEstacionamientoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T22:52:23.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250829020623_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Migrations\\20250829020623_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250829020623_Inicial.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Migrations\\20250829020623_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250829020623_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T02:06:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T02:02:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ortiz\\Documents\\10 semestre\\047 SEMINARIO DE TECNOLOG\u00CDAS DE INFORMACI\u00D3N\\BETA2\\Final\\SeminarioFinal\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ortiz\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ortiz\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ortiz\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\ortiz\\AppData\\Local\\Temp\\Rar$DIa28884.11234\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T02:37:58.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "modales.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\wwwroot\\css\\modales.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\modales.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\wwwroot\\css\\modales.css",
+              "RelativeToolTip": "wwwroot\\css\\modales.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-25T02:18:42.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ortiz\\Documents\\10 semestre\\047 SEMINARIO DE TECNOLOG\u00CDAS DE INFORMACI\u00D3N\\BETA2\\Final\\SeminarioFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\SEMINARIO\\Proyecto-ParqueoB\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAD4AAAAAmpmZmZkZwEsAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T02:13:09.379Z",
               "EditorCaption": ""
