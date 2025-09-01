@@ -208,12 +208,52 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/EspacioEstacionamientoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwYWNpb0VzdGFjaW9uYW1pZW50b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/EspacioEstacionamientoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwYWNpb0VzdGFjaW9uYW1pZW50b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/EspacioEstacionamientoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwYWNpb0VzdGFjaW9uYW1pZW50b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/EspacioEstacionamientoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwYWNpb0VzdGFjaW9uYW1pZW50b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/EspacioEstacionamientoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwYWNpb0VzdGFjaW9uYW1pZW50b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Pagoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Pagoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Pagoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Pagoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Pagoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Shared/Error.cshtml]
@@ -246,6 +286,46 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Tarifas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyaWZhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Tickets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Tickets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Tickets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Tickets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/Tickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/TipoVehiculoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZlaGljdWxvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/TipoVehiculoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZlaGljdWxvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/TipoVehiculoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZlaGljdWxvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/TipoVehiculoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZlaGljdWxvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/TipoVehiculoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZlaGljdWxvZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ortiz/Documents/10 semestre/047 SEMINARIO DE TECNOLOGÍAS DE INFORMACIÓN/BETA2/Final/SeminarioFinal/Views/_ViewImports.cshtml]
