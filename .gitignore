@@ -1,3 +1,53 @@
-/obj
-/obj
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# ASP.NET temporary files
+AppPackages/
+BundleArtifacts/
+project.lock.json
+project.fragment.lock.json
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+.nuget/
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Others
+*.dbmdl
+*.bak
+*.ldf
+*.mdf
+*.log
+*.pdb
+*.cache
+*.tmp
+*.swp
+/.vs
+.vs/Primera/CopilotIndices/17.13.433.20974/SemanticSymbols.db
+/.vs
+/.vs
+/.vs
 /.vs
